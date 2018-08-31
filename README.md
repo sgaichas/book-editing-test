@@ -1,4 +1,7 @@
 # book-editing-test
+
+[![Travis-CI Build Status](https://travis-ci.org/NOAA-EDAB/tech-memo.svg?branch=master)](https://travis-ci.org/NOAA-EDAB/tech-memo)
+
 a toy book to test out different editing methods
 
 taken from https://github.com/rstudio/bookdown-demo/ and modified
