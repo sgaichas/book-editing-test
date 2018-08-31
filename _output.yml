@@ -1,4 +1,6 @@
 bookdown::gitbook:
+  includes:
+    in_header: [hypothesis.html]
   css: style.css
   lib_dir: assets
   split_by: chapter
