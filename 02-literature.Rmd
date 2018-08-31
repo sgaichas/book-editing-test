@@ -1,6 +1,6 @@
 # Literature
 
-Here is a review of existing methods, directly coped from [@lewis_method_1903]. Each line from the pdf is a line here; maybe this makes editing easier? harder?
+Here is a review of existing methods, directly quoted from [@lewis_method_1903]. Each line from the pdf is a line here; maybe this makes editing easier? harder?
 
  I REGARD the teaching of English literature and the teaching
  of spelling, grammar, and rhetoric as two different professions.
