@@ -1,6 +1,6 @@
 # book-editing-test
 
-[![Travis-CI Build Status](https://travis-ci.org/NOAA-EDAB/tech-memo.svg?branch=master)](https://travis-ci.org/NOAA-EDAB/tech-memo)
+[![Travis-CI Build Status](https://travis-ci.com/sgaichas/book-editing-test.svg?branch=master)](https://travis-ci.com/sgaichas/book-editing-test)
 
 a toy book to test out different editing methods
 
